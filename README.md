@@ -1,0 +1,2 @@
+# Snapmatic
+My Licence
